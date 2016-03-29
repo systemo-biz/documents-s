@@ -11,4 +11,5 @@ Author URI: http://systemo.biz/
 
 include 'inc/model.php';
 include 'inc/shortcodes.php';
+include 'inc/shortcodes-owl.php';
 include 'inc/controllers.php';
